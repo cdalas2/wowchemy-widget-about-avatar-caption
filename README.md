@@ -40,14 +40,12 @@ Say your GitHub username is `pikachu` and you wish to create a widget named `pok
    ```yaml
    module:
      imports:
-       # Your widget's GitHub URL (replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name)
-       - path: github.com/<USERNAME>/wowchemy-widget-<WIDGET-NAME>
+       - path: github.com/cdalas2/wowchemy-widget-about-avatar-caption
    ```
 1. Create an instance of your widget in `home/`, for example let's create `home/my-widget.md`:
    ```markdown
    ---
-   # Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
-   widget: 'github.<USERNAME>.<WIDGET-NAME>'
+   widget: 'github.cdalas2.about-avatar-caption'
 
    # This file represents a page section.
    headless: true
