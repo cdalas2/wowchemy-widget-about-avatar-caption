@@ -11,10 +11,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 1
-
-advanced:
-  css_style: ""
-  css_class: ""
   
 author: "admin"
 ---
