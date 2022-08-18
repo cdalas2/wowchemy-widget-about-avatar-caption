@@ -1,5 +1,4 @@
 ## 🌈 Add the Widget to your Site
-```
 1. Install the widget by referencing it in your `config/_defaults/config.yaml`:
    ```yaml
    module:
@@ -8,6 +7,7 @@
    ```
 2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`:
    ```markdown
+   ```
 ---
 # An instance of the About Avatar Caption widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
