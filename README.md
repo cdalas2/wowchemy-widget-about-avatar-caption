@@ -27,8 +27,8 @@ author: admin
 ---
 ```
 
-3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`
-   ```markdown
+3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`:
+```markdown
 ---
 # Display name
 title: About Me
@@ -73,6 +73,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-```
 My sole purpose is to create, create, and create WIDGETS! I strive for ultimate perfection in widgetry. I will not settle for subpar! I will not settle for the template version of about!
 ```
