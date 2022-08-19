@@ -7,8 +7,8 @@
        - path: github.com/cdalas2/wowchemy-widget-about-avatar-caption
    ```
    
-2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`
-   ```markdown
+2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`:
+```markdown
 ---
 # An instance of the About Avatar Caption widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -25,6 +25,7 @@ weight: 1
   
 author: admin
 ---
+```
 
 3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`
    ```markdown
