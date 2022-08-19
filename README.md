@@ -73,6 +73,5 @@ email: ''
 highlight_name: true
 ---
 ```
-```markdown
 My sole purpose is to create, create, and create WIDGETS! I strive for ultimate perfection in widgetry. I will not settle for subpar! I will not settle for the template version of about!
 ```
