@@ -8,7 +8,7 @@
    ```
    
 2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`
-   ```markdown
+   ```yaml
 ---
 # An instance of the About Avatar Caption widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -27,7 +27,7 @@ author: admin
 ---
 
 3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`
-   ```markdown
+   ```yaml
 ---
 # Display name
 title: About Me
