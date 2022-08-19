@@ -6,6 +6,7 @@
      imports:
        - path: github.com/cdalas2/wowchemy-widget-about-avatar-caption
    ```
+   
 2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`
    ```markdown
 ---
@@ -24,6 +25,7 @@ weight: 1
   
 author: admin
 ---
+
 3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`
    ```markdown
 ---
@@ -70,7 +72,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+```
+```markdown
 My sole purpose is to create, create, and create WIDGETS! I strive for ultimate perfection in widgetry. I will not settle for subpar! I will not settle for the template version of about!
 ```
-
