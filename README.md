@@ -1,5 +1,5 @@
 ## 🌈 Add the Widget to your Site
-```
+
 1. Install the widget by referencing it in your `config/_defaults/config.yaml`:
    ```yaml
    module:
