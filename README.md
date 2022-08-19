@@ -25,10 +25,10 @@ weight: 1
   
 author: admin
 ---
-  ```
+   ```
 
 3. Create an instance of an author profile in `content/authors/`, for example let's create `content/authors/admin/_index.md`
-  ```markdown
+   ```markdown
 ---
 # Display name
 title: About Me
