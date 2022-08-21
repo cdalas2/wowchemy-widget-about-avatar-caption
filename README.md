@@ -79,7 +79,8 @@ My sole purpose is to create, create, and create WIDGETS! I strive for ultimate 
 4. Create an instance of widget_page.html in `layouts/partials/` to overwrite the original such as to include our new widget as having a slider. To do this we copy the file layouts/partials/widget_page.html from Wowchemy's repo https://github.com/wowchemy/wowchemy-hugo-themes.git and replace the line 
 ```html
 {{ if in (slice "slider") $widget }}
-``` with 
+``` 
+with 
 ```html
 {{ if in (slice "slider" "github.cdalas2.about-slider-two-column" "about") $widget }}
 ```
